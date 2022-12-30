@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">79eba7601b5a9150d0c60fa9cc4bcbab</sp_column>
+        <sp_widget display_value="SpotLight_V1">c6b35a1d1b0a191044860d8cdc4bcb58</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>Sandeep.Vasudevan</sys_created_by>
+        <sys_created_on>2022-09-21 11:45:22</sys_created_on>
+        <sys_id>509f30421bce5910d0c60fa9cc4bcb47</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sp_instance_509f30421bce5910d0c60fa9cc4bcb47</sys_update_name>
+        <sys_updated_by>Sandeep.Vasudevan</sys_updated_by>
+        <sys_updated_on>2022-09-29 18:43:42</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"birthdaytitle": {
+		"value": "happy birthday",
+		"displayValue": "happy birthday"
+	},
+	"birthdaywish": {
+		"value": "",
+		"displayValue": ""
+	},
+	"anniversarytitle": {
+		"value": "Happy anniversay",
+		"displayValue": "Happy anniversay"
+	},
+	"anniversarywish": {
+		"value": "",
+		"displayValue": ""
+	},
+	"slideinterval": {
+		"value": null,
+		"displayValue": ""
+	},
+	"birthdaypopup": {
+		"value": "",
+		"displayValue": ""
+	},
+	"anniversarypopup": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=509f30421bce5910d0c60fa9cc4bcb47"/>
+</record_update>

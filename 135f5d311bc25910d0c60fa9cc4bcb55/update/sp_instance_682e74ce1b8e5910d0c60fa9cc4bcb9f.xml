@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">576a63201b5a9150d0c60fa9cc4bcb12</sp_column>
+        <sp_widget display_value="My Apps">77d276d11bcad510d0c60fa9cc4bcb9a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>Sandeep.Vasudevan</sys_created_by>
+        <sys_created_on>2022-09-21 11:39:06</sys_created_on>
+        <sys_id>682e74ce1b8e5910d0c60fa9cc4bcb9f</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sp_instance_682e74ce1b8e5910d0c60fa9cc4bcb9f</sys_update_name>
+        <sys_updated_by>Snekha.Mohan Kumar</sys_updated_by>
+        <sys_updated_on>2022-11-01 09:00:01</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title_of_widget": {
+		"value": "My Apps",
+		"displayValue": "My Apps"
+	},
+	"application_count": {
+		"value": 5,
+		"displayValue": "5"
+	},
+	"card_display_view": {
+		"value": "Icon only",
+		"displayValue": "Icon only"
+	},
+	"load_config": {
+		"value": "sync",
+		"displayValue": "Synchronous"
+	},
+	"show_empty_state": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=682e74ce1b8e5910d0c60fa9cc4bcb9f"/>
+</record_update>

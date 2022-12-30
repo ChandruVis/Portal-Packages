@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_carousel_slide">
+    <sp_carousel_slide action="INSERT_OR_UPDATE">
+        <background/>
+        <carousel display_value="">eb39d1de1b4e9910d0c60fa9cc4bcbb4</carousel>
+        <name>Use "hello World " for better coding</name>
+        <order>200</order>
+        <sys_class_name>sp_carousel_slide</sys_class_name>
+        <sys_created_by>Snekha.Mohan Kumar</sys_created_by>
+        <sys_created_on>2022-10-28 13:50:37</sys_created_on>
+        <sys_id>5efeb735db7e1d10b39d6a3b13961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Use "hello World " for better coding</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sp_carousel_slide_5efeb735db7e1d10b39d6a3b13961940</sys_update_name>
+        <sys_updated_by>Snekha.Mohan Kumar</sys_updated_by>
+        <sys_updated_on>2022-10-28 13:50:37</sys_updated_on>
+        <url>https://beckstrategiesincdemo7.service-now.com/flex_ec?id=flex_homepage</url>
+    </sp_carousel_slide>
+    <sys_translated_text action="delete_multiple" query="documentkey=5efeb735db7e1d10b39d6a3b13961940"/>
+</record_update>

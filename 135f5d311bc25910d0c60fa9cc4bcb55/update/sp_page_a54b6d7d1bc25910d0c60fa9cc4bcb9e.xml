@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>.banner-container .banner-content &gt; .widget-button {
+    background-color: $quick-link-2;
+    border-color: $quick-link-2;
+    border-radius: $size-0;
+}
+
+.widget-content-experience .widget-container .list ul li.active
+{
+background-image: linear-gradient(0deg, $secondary-gradient-color, $primary-color) !important; 
+  &amp;:focus{
+    box-shadow:$style-none !important;
+    border:$size-0;
+  }
+}
+.widget-content-experience .widget-container .list ul li 
+{
+  background: $primary-color !important;
+
+}
+.widget-content-experience .widget-container .list ul li span
+{
+  color: $white !important;
+}
+.widget-content-experience .widget-container .list ul li .btn 
+{
+    border-bottom:$size-1 solid $black !important;
+}
+.btn-primary{
+border:$size-0 !important;
+}
+.scroll-btns button
+{
+  background-image: linear-gradient(0deg, $secondary-gradient-color, $primary-color) !important; 
+ 
+  &amp;:first-child
+  {
+   border-right:$size-1 solid $primary-color !important;
+  }
+}
+.scroll-btns button span
+{
+color:$white;
+}
+.sp-row-content div span div .container{
+ padding:$size-0 !important;
+}
+.pause-toggle{
+visibility:$hidden;
+}
+.carousel-active-border{
+ box-shadow: $style-none;
+}
+.widget-content-experience .widget-container .list ul li.active {
+  border-radius: $size-0 !important;
+  box-shadow: $style-none !important;
+}
+.btn-primary:focus{
+  box-shadow:$d-none !important;
+  outline:$d-none !important;
+}
+.card-badge{
+  display:$d-none !important;
+}
+h3.panel-title.ng-binding {
+    color: $black;
+  	font-family:$primary-font-semibold;
+}
+.panel-body {
+    padding-top: $size-7;
+}
+
+// New CSS - 27/09/2022 
+div#recommendations-dashboard-section {
+    box-shadow: $d-none;
+}
+.panel-heading.b-b {
+    border-bottom: $d-none;
+}
+// Catalogs Contents Padding Style
+div#card-list-contents-section {
+    padding: $size-10 $size-0;
+}
+div#body-content {
+    padding: $size-10 $size-0 !important;
+    margin-right: $size-14;
+}
+// Recommended for You Title Style
+.panel-heading.b-b {
+    padding: $size-10 $size-0;
+}
+
+//Lets Meet border remove border radius
+.event-card-style {
+    border-top-right-radius: $size-0 !important;
+    border-bottom-right-radius: $size-0 !important;
+}
+//lets meet title 
+h1#header-a1d301861bce5910d0c60fa9cc4bcbde {
+    margin-top: $size-10 !important ;
+    margin-bottom: $size-18 !important;
+}
+
+//cart count &amp; my task count 
+span.label.label-as-badge.label-primary.ng-binding {
+    top: $size-0;
+    left: $size-3;
+}
+
+.dots{
+  margin-bottom: $size-32 !important;
+}
+.widget-content.mobile .banner-content {
+    margin: auto auto $size-65 $size-16;
+    max-width: $sp-space--264px;
+    padding: $size-0 $size-10;
+}
+.widget-content-experience .widget-container .left-arrow{
+ display:$d-none !important;
+}
+.widget-content-experience .widget-container .right-arrow{
+ display:$d-none !important;
+}
+
+.scrub-footer .sf-main .sf-links-container .sf-group .sf-link a:focus {
+    outline: $d-none !important;
+    box-shadow: $d-none;
+    color: $black !important;
+    cursor: pointer;
+}
+
+.quicklinks-container{
+border:$size-0 !important ;
+  padding: $size-24 $size-0 !important
+}
+.col-md-12 &gt; .link-btn {
+    margin-top: $size-0;
+}
+
+@media only screen and (max-width: 900px){
+.custom-widget-order{
+flex-direction:column;
+  display:$d-flex
+}
+.quick-widgets-order{
+order:2 !important;
+}
+.carousel-active-border{
+  order:1 !important;
+}
+}
+
+.primary-font-color{
+ color: $black !important;
+}
+
+.event-date{
+  background-color:$secondary-color !important;
+}
+.event-date .primary-font-color{
+ color: $link-color !important;
+}
+
+.event-date-1{
+    background-color: $secondary-color !important;
+    padding: $size-36 $size-28 !important;
+    text-align: $center;
+    display: $d-flex;
+    align-items: $center;
+}
+
+.event-date-range-3{
+    background-color: $secondary-color !important;
+    padding: $size-36 $size-5 !important;
+    text-align: $center;
+    display: $d-flex;
+    align-items: $center;
+    max-width: $sp-space--118px !important;
+}
+
+.event-date-range{
+   background-color: $secondary-color !important;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>asianone_ec_pro_homepage</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>Sandeep.Vasudevan</sys_created_by>
+        <sys_created_on>2022-09-20 20:18:28</sys_created_on>
+        <sys_id>a54b6d7d1bc25910d0c60fa9cc4bcb9e</sys_id>
+        <sys_mod_count>73</sys_mod_count>
+        <sys_name>asianone_ec_pro_homepage</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sp_page_a54b6d7d1bc25910d0c60fa9cc4bcb9e</sys_update_name>
+        <sys_updated_by>Vignesh.Dhatshnamurthy</sys_updated_by>
+        <sys_updated_on>2022-10-31 10:18:31</sys_updated_on>
+        <title>Asianone EC Pro Homepage</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=a54b6d7d1bc25910d0c60fa9cc4bcb9e"/>
+</record_update>

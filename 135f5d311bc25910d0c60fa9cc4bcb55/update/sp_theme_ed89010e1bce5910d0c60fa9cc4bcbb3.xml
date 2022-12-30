@@ -221,9 +221,24 @@ header {&#13;
 //=below Header&#13;
 //=Search Field &#13;
 .input-group-typeahead .form-control{&#13;
-   box-shadow:$d-none !important;&#13;
-   border-radius: $size-0;&#13;
-   padding: $size-20;&#13;
+    box-shadow:$d-none !important;&#13;
+    border-radius: $size-0;&#13;
+    border: 0.1rem solid $grey-100 !important;&#13;
+    border-right: $d-none !important;&#13;
+}&#13;
+.input-group-typeahead .form-control{&#13;
+    &amp;:hover{&#13;
+    	box-shadow:$d-none !important;&#13;
+    	border-radius: $size-0;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+        border-right: $d-none !important;&#13;
+    }&#13;
+    &amp;:focus{&#13;
+    	box-shadow:$d-none !important;&#13;
+    	border-radius: $size-0;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+        border-right: $d-none !important;&#13;
+    }&#13;
 }&#13;
 &#13;
 .cm-main-search .cm-search-box .input-group .input-group-btn &gt; button{&#13;
@@ -241,7 +256,7 @@ header {&#13;
 }&#13;
 //=search icon color&#13;
 .fa-search{&#13;
-    color:$grey-100 !important;&#13;
+    color:$primary-color !important;&#13;
 }&#13;
 //=megamenu background color&#13;
 .mega-menu__items{&#13;
@@ -411,11 +426,27 @@ background-color:$secondary-color !important;&#13;
 }&#13;
 &#13;
 .input-group-btn button.btn.btn-default {&#13;
-    border-left: $d-none !important;&#13;
     border-radius: $size-0;&#13;
-    padding: $size-20;&#13;
+    border: 0.1rem solid $grey-100 !important;&#13;
     align-items: $center !important;&#13;
     display: $d-flex !important;&#13;
+    border-left: $d-none !important;&#13;
+}&#13;
+.input-group-btn button.btn.btn-default{&#13;
+  &amp;:hover{&#13;
+    border-radius: $size-0;&#13;
+    border: 0.1rem solid $grey-100 !important;&#13;
+    align-items: $center !important;&#13;
+    display: $d-flex !important;&#13;
+    border-left: $d-none !important;&#13;
+  }&#13;
+  &amp;:focus{&#13;
+    border-radius: $size-0;&#13;
+    border: 0.1rem solid $grey-100 !important;&#13;
+    align-items: $center !important;&#13;
+    display: $d-flex !important;&#13;
+    border-left: $d-none !important;&#13;
+  }&#13;
 }&#13;
 &#13;
 //=tooltip hide css&#13;
@@ -763,48 +794,54 @@ background-color:$breadcrumbs-background;&#13;
 &#13;
 //= Header search style&#13;
 &#13;
-header .header-search form .input-group input.form-control.input-typeahead:focus {&#13;
-    outline: none !important;&#13;
-    border: 0.1rem solid $grey-100 !important;&#13;
-    box-shadow: none !important;&#13;
-    border-right: unset !important;&#13;
-    background-color: $white !important;&#13;
+header .header-search form .input-group input.form-control.input-typeahead{&#13;
+    &amp;:focus {&#13;
+    	outline: none !important;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+    	box-shadow: none !important;&#13;
+   	    border-right: unset !important;&#13;
+        background-color: $white !important;&#13;
+        }&#13;
+&#13;
+    &amp;:hover {&#13;
+    	outline: none !important;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+    	box-shadow: none !important;&#13;
+    	border-right: unset !important;&#13;
+    	background-color: $white !important;&#13;
+        }&#13;
+    &amp;:active {&#13;
+    	outline: none !important;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+    	box-shadow: none !important;&#13;
+    	border-right: unset !important;&#13;
+    	background-color: $white !important;&#13;
+		}&#13;
 }&#13;
-header .header-search form .input-group input.form-control.input-typeahead:hover {&#13;
-    outline: none !important;&#13;
-    border: 0.1rem solid $grey-100 !important;&#13;
-    box-shadow: none !important;&#13;
-    border-right: unset !important;&#13;
-    background-color: $white !important;&#13;
+header form .input-group .input-group-btn button.btn.btn-default{&#13;
+	&amp;:hover{&#13;
+    	outline: none !important;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+    	box-shadow: none !important;&#13;
+    	border-left: unset !important;&#13;
+    	background-color: $white !important;&#13;
+    }&#13;
+    &amp;:active{&#13;
+    	outline: none !important;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+    	box-shadow: none !important;&#13;
+    	border-left: unset !important;&#13;
+    	background-color: $white !important;&#13;
+    }&#13;
+    &amp;:focus{&#13;
+   	 	outline: none !important;&#13;
+    	border: 0.1rem solid $grey-100 !important;&#13;
+    	box-shadow: none !important;&#13;
+    	border-left: unset !important;&#13;
+    	background-color: $white !important;&#13;
+    }&#13;
 }&#13;
-header .header-search form .input-group input.form-control.input-typeahead:active {&#13;
-    outline: none !important;&#13;
-    border: 0.1rem solid $grey-100 !important;&#13;
-    box-shadow: none !important;&#13;
-    border-right: unset !important;&#13;
-    background-color: $white !important;&#13;
-}&#13;
-header form .input-group .input-group-btn button.btn.btn-default:focus {&#13;
-    outline: none !important;&#13;
-    border: 0.1rem solid $grey-100 !important;&#13;
-    box-shadow: none !important;&#13;
-    border-left: unset !important;&#13;
-    background-color: $white !important;&#13;
-}&#13;
-header form .input-group .input-group-btn button.btn.btn-default:hover {&#13;
-    outline: none !important;&#13;
-    border: 0.1rem solid $grey-100 !important;&#13;
-    box-shadow: none !important;&#13;
-    border-left: unset !important;&#13;
-    background-color: $white !important;&#13;
-}&#13;
-header form .input-group .input-group-btn button.btn.btn-default:active {&#13;
-    outline: none !important;&#13;
-    border: 0.1rem solid $grey-100 !important;&#13;
-    box-shadow: none !important;&#13;
-    border-left: unset !important;&#13;
-    background-color: $white !important;&#13;
-}</css_variables>
+</css_variables>
         <footer display_value="Employee Center Footer">ce046d5773603010c94f54eb7df6a7ec</footer>
         <footer_fixed>false</footer_fixed>
         <header display_value="Employee Center Header">d0009941eb103010ed7966d6475228c1</header>
@@ -814,13 +851,13 @@ header form .input-group .input-group-btn button.btn.btn-default:active {&#13;
         <sys_created_by>Sandeep.Vasudevan</sys_created_by>
         <sys_created_on>2022-09-21 12:31:32</sys_created_on>
         <sys_id>ed89010e1bce5910d0c60fa9cc4bcbb3</sys_id>
-        <sys_mod_count>116</sys_mod_count>
+        <sys_mod_count>120</sys_mod_count>
         <sys_name>Asian One EC Pro Theme</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>sp_theme_ed89010e1bce5910d0c60fa9cc4bcbb3</sys_update_name>
-        <sys_updated_by>Prabeen.Raj Selvaraj</sys_updated_by>
-        <sys_updated_on>2022-11-16 18:52:05</sys_updated_on>
+        <sys_updated_by>Sudarsan.Pavadairayan</sys_updated_by>
+        <sys_updated_on>2022-12-27 21:27:10</sys_updated_on>
     </sp_theme>
 </record_update>

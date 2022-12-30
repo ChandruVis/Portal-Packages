@@ -660,7 +660,8 @@ background-color: $primary-color !important;&#13;
 }&#13;
 &#13;
 .modal-header button.close.pull-right {&#13;
-    box-shadow: 0 0 0 0.15rem $primary-color;&#13;
+   //= box-shadow: 0 0 0 0.15rem $primary-color;&#13;
+   box-shadow:$d-none!important;&#13;
     outline: 0.4rem solid transparent;&#13;
 }&#13;
 .modal .modal-dialog .modal-footer button.btn.btn-default:focus {&#13;
@@ -841,6 +842,85 @@ header form .input-group .input-group-btn button.btn.btn-default{&#13;
     	background-color: $white !important;&#13;
     }&#13;
 }&#13;
+&#13;
+//= Cart Proceed to Checkbox Popup&#13;
+.cart-dropdown .panel-footer .btn.btn-default:focus{&#13;
+box-shadow:$style-none!important;&#13;
+border-color: $unset!important;&#13;
+border-left: 1px solid $black !important;&#13;
+&#13;
+ &#13;
+&#13;
+//=border:1px solid $primary-color&#13;
+//=box-shadow:$unset;&#13;
+&#13;
+ &#13;
+&#13;
+}&#13;
+&#13;
+.panel .clearfix .padder-v .sc-section-toggle-button:focus{&#13;
+border:$style-none;&#13;
+box-shadow:$unset;&#13;
+}&#13;
+.panel .clearfix .padder-v .form-control:focus{&#13;
+border:1px solid $black;&#13;
+box-shadow:$unset;&#13;
+outline:none;&#13;
+}&#13;
+.panel .clearfix .sc-section-toggle-button:focus{&#13;
+border:$style-none;&#13;
+box-shadow:$unset;&#13;
+}&#13;
+.modal-dialog .clearfix .col-sm-12 .form-control:focus{&#13;
+border:1px solid $black;&#13;
+box-shadow:$unset;&#13;
+outline:none;&#13;
+}&#13;
+button.btn.btn-clear:focus {&#13;
+    box-shadow:unset !important;&#13;
+    outline:unset !important;&#13;
+}&#13;
+.modal-dialog .record-picker .select2-container-active{&#13;
+box-shadow:unset;&#13;
+border:$style-none;&#13;
+outline:$style-none;&#13;
+}&#13;
+.select2-drop .select2-results .select2-highlighted{&#13;
+background-color:$primary-color-100 !important;&#13;
+color:$black;&#13;
+}&#13;
+.select2-with-searchbox .select2-search .select2-input{&#13;
+box-shadow:unset;&#13;
+border:1px solid $muted-text;&#13;
+outline:$style-none;&#13;
+}&#13;
+.panel .clearfix .form-group .select2-container-active{&#13;
+box-shadow:unset;&#13;
+border:unset;&#13;
+outline:$style-none;&#13;
+}&#13;
+.padding-top-s .file-upload-input .sp-attachment-add:focus{&#13;
+border:$style-none;&#13;
+box-shadow:$unset;&#13;
+outline:$style-none;&#13;
+}&#13;
+.clearfix .pull-right .btn.btn-default:focus{&#13;
+border:1px solid $primary-color;&#13;
+box-shadow:$unset;&#13;
+outline:$style-none;&#13;
+}&#13;
+.modal-body .panel-default .padder-md .fa-close{&#13;
+border:$style-none;&#13;
+box-shadow:$unset;&#13;
+outline:$style-none;&#13;
+}&#13;
+.container-fluid .record-picker div.select2-container .select2-choice{&#13;
+box-shadow:$unset !important;&#13;
+border:1px solid $muted-text !important;&#13;
+}&#13;
+div.select2-container .select2-choice{&#13;
+box-shadow:$style-none;&#13;
+}&#13;
 </css_variables>
         <footer display_value="Employee Center Footer">ce046d5773603010c94f54eb7df6a7ec</footer>
         <footer_fixed>false</footer_fixed>
@@ -851,13 +931,13 @@ header form .input-group .input-group-btn button.btn.btn-default{&#13;
         <sys_created_by>Sandeep.Vasudevan</sys_created_by>
         <sys_created_on>2022-09-21 12:31:32</sys_created_on>
         <sys_id>ed89010e1bce5910d0c60fa9cc4bcbb3</sys_id>
-        <sys_mod_count>120</sys_mod_count>
+        <sys_mod_count>124</sys_mod_count>
         <sys_name>Asian One EC Pro Theme</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>sp_theme_ed89010e1bce5910d0c60fa9cc4bcbb3</sys_update_name>
-        <sys_updated_by>Sudarsan.Pavadairayan</sys_updated_by>
-        <sys_updated_on>2022-12-27 21:27:10</sys_updated_on>
+        <sys_updated_by>Snekha.Mohan Kumar</sys_updated_by>
+        <sys_updated_on>2022-12-28 14:48:21</sys_updated_on>
     </sp_theme>
 </record_update>

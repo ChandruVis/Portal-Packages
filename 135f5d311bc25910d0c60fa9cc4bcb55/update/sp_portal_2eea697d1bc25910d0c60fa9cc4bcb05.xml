@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary:#355A91;
+$body-bg:#fff;
+$state-success-text:#5cb85c;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#455464;
+$text-color:#717171;
+$sp-logo-margin-y:.5rem;
+$navbar-inverse-link-hover-color:#ffffff;
+$panel-bg:#fff;
+$brand-success:#5cb85c;
+$navbar-inverse-bg:#3a3f51;
+$brand-warning:#f0ad4e;
+$brand-danger:#d9534f;
+$sp-tagline-color:#717171;
+$navbar-inverse-link-color:#bdc0c4;
+$brand-info:#5bc0de;
+$link-color:#0E7CFF;
+$sp-logo-margin-x:1rem;
+$btn-default-bg:#fff;
+$text-muted:#979797;
+&#13;
+</css_variables>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>true</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="asianone_ec_pro_homepage">a54b6d7d1bc25910d0c60fa9cc4bcb9e</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="asianone_ec_pro_knowledge_homepage">cf9ba1bd1bc25910d0c60fa9cc4bcbc1</kb_knowledge_page>
+        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
+        <logo>deb58ac61bc29910d0c60fa9cc4bcb6b</logo>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config>[{"favorite":{"icon_checked":"fa-heart","icon_unchecked":"fa-heart-o","color":"primary"}}]</quick_start_config>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Asian One EC Pro Main Menu">166c8a4e1bc29910d0c60fa9cc4bcbb2</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>Sandeep.Vasudevan</sys_created_by>
+        <sys_created_on>2022-09-20 20:16:33</sys_created_on>
+        <sys_id>2eea697d1bc25910d0c60fa9cc4bcb05</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Asianone EC Pro Protal</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sp_portal_2eea697d1bc25910d0c60fa9cc4bcb05</sys_update_name>
+        <sys_updated_by>Vignesh.Dhatshnamurthy</sys_updated_by>
+        <sys_updated_on>2022-11-15 12:12:40</sys_updated_on>
+        <theme display_value="Asian One EC Pro Theme">ed89010e1bce5910d0c60fa9cc4bcbb3</theme>
+        <title>Asianone EC Pro Protal</title>
+        <ts_index_group/>
+        <url_suffix>asianone_ec_pro</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=2eea697d1bc25910d0c60fa9cc4bcb05"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <hash>da1dc879cb9258389066389865a7a50da0b83c753cdf4c65ae4207b56dace6fb</hash>
+        <image_height>38</image_height>
+        <image_width>42</image_width>
+        <size_bytes>1246</size_bytes>
+        <size_compressed>1269</size_compressed>
+        <state>available</state>
+        <sys_created_by>Chandru.Viswanathan</sys_created_by>
+        <sys_created_on>2022-09-21 16:51:53</sys_created_on>
+        <sys_id>deb58ac61bc29910d0c60fa9cc4bcb6b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>Chandru.Viswanathan</sys_updated_by>
+        <sys_updated_on>2022-09-21 16:51:53</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>2eea697d1bc25910d0c60fa9cc4bcb05</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="deb58ac61bc29910d0c60fa9cc4bcb6b">deb58ac61bc29910d0c60fa9cc4bcb6b</sys_attachment>
+        <sys_created_by>Chandru.Viswanathan</sys_created_by>
+        <sys_created_on>2022-09-21 16:51:53</sys_created_on>
+        <sys_id>12b58ac61bc29910d0c60fa9cc4bcb6c</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>Ad4EIfuJUE5HDQoaCgAAAA1JSERSAAAAKgAAACYIBgAAALIBCSAAAAAEc0JJVAgICAh8CGSIAAAElUlEQVRYR+2ZP25TQRDG7QsAkaig4IWWgqRGKPYJSE6A09DitDRxTkDSUCChOCcgN4hTUBM4ADgFJSKR0pvvt5mN5q3fXycukFhplLe7s7Pffju7M+t0OwuW2WyWaehmt9vdX9BERzbWNPa+5FJ2zqrsdG8xyVhjX0lWNclFEzsG7K10AYikBbDHkiPZnPrOhYBqwp6MnJihPRkdVQE1/V3pMK5pgYidSMKiQAEZJ4XNUlYFcqj+903RJXqwui2wk9ZAEzaj3UJWpQsrr0tAflM7Ww0YFv1A8rxEd2URoJ5NbxdWmTSUEiYv1cXh2y/ya/NhdsAvDn8dtAIqQwMZOSxZdTDogGbGGKeaAoO9JgfPdo1DxdhAQFugPzUQAGUlZXUkRQ5RY5BuodwKLCxcf42BFrB5boxxRcVyLMNbbjL8Dj9kwmnFAmu72gBN2dyW9YmEdl/6nFIPtsl21yFtBFRsxi2M9s41eUZFfWwNl3gsE/X16yZu218LVEDYPljjbyxbAoOzA5T2qSQeGppzrLYFVaTfBGjK5qlA9ryxAsbPpLN+FwCjjUqgJWzOsSW9JzL4XXLPgSOijO8KbB1QJvKX7xybtv2wDssbDthUQFeXDtTSuPREr2vyXDqW6P0SsMfLYLWU0YI4nYs8EUyi90XtL5bBaiHQEjZzUce2PNPflHUCAT4by552Ade4VSkDmiYeZWxyRfnIdKQ6bZ8dKtJADmBlBl+3ijmgBWkcGc9aGgJL0r3AuvomycECJGAbvQRst4j1h/GaKwKaslm4dQVgbvQsXfuasARYAsW0jj3LK0i2CSbhmssBLWEzS5looleREhJycaU5V7AFArDnFhOuuRRomni0ZtOzVZO/wqxnl632YTqauna9WCtJ4/DNnF8V6GFojvXELiz6XKBu92M/NwhP8jMPdC6NKwqBAgoL/vrhpRiS27JioXisfn9D1IHdk8LNkyUALWJTk2eppaZ6FYCxuWniwy1D2Bn8lgWRgOd2MgJN/QMHhrlcMWf3flSoV0eV74ftJtdWbZrXZtJl6v4Hetfs/nuMWkgcybEndhNwOmPSzFXB4fogeSOdKxdFCIsXVucNT8ijjp2hj0D2ZOG003cgySREIsaQI3DNxYjlE/adeOoBRcZDaBu4NI83OjcCr8xnEhLjh9L5bUZpD7HYhdUQzVSfqa/vFj5SnXmGEr5Z+FhCbhFerrY4FkGJunxfX/hSIDVjIBOvGCPcY/x8c2CrfZQApZ+JNtS/bkCpc32xOAKIBwqAsVsUxEAEQIlALABBj0JwoN7RmNOuRY0/qvO+ATDRAIYyfY8krIwt+SgJjEpeWhuA4tioz0Rsb0+SAsX2sWOf9z9A+TuWsHgwUAbWBtARQEHtf7/ER7Ylu1LYckZ5C0Wgn/TtwyH+xgT4eE9jsMFPiB5o2DX1D81X49aeqA0cAMUvOQ8Ufgbq2XcHhRC21LjvfBN2GchkrPJU8s6APtXfH5Lw0LOwGg6RA8oEgSnno5nqEwm+uwIQCW4SgfI9lbB7FGzG0q+8nnx40ze68R8DTLZQaRoyU+N/AYErX+aYFId+AAAAAElFTkSuQmCClO3dZ94EAAA=</data>
+        <length>1680</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="deb58ac61bc29910d0c60fa9cc4bcb6b">deb58ac61bc29910d0c60fa9cc4bcb6b</sys_attachment>
+        <sys_created_by>Chandru.Viswanathan</sys_created_by>
+        <sys_created_on>2022-09-21 16:51:53</sys_created_on>
+        <sys_id>92b58ac61bc29910d0c60fa9cc4bcb6c</sys_id>
+    </sys_attachment_doc>
+</record_update>

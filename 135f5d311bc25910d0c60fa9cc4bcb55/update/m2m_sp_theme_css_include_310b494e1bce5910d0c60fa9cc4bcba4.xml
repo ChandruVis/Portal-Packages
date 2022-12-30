@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_theme_css_include">
+    <m2m_sp_theme_css_include action="INSERT_OR_UPDATE">
+        <order/>
+        <sp_css_include display_value="Asia One EC Pro CSS Include">c4fa094e1bce5910d0c60fa9cc4bcb8e</sp_css_include>
+        <sp_theme display_value="Asian One EC Pro Theme">ed89010e1bce5910d0c60fa9cc4bcbb3</sp_theme>
+        <sys_class_name>m2m_sp_theme_css_include</sys_class_name>
+        <sys_created_by>Sandeep.Vasudevan</sys_created_by>
+        <sys_created_on>2022-09-21 12:35:27</sys_created_on>
+        <sys_id>310b494e1bce5910d0c60fa9cc4bcba4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asia One EC Pro CSS Include.Asian One EC Pro Theme</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>m2m_sp_theme_css_include_310b494e1bce5910d0c60fa9cc4bcba4</sys_update_name>
+        <sys_updated_by>Sandeep.Vasudevan</sys_updated_by>
+        <sys_updated_on>2022-09-21 12:35:27</sys_updated_on>
+    </m2m_sp_theme_css_include>
+</record_update>

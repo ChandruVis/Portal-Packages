@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ex_sp_footer_menu">
+    <sn_ex_sp_footer_menu action="INSERT_OR_UPDATE">
+        <footer display_value="Asianone EC Pro Footer">1640f2041b62119044860d8cdc4bcb50</footer>
+        <link_type>navigation_links</link_type>
+        <menu display_value="Social Responsibility">89b0ea401b22119044860d8cdc4bcb6e</menu>
+        <order>400</order>
+        <sys_class_name>sn_ex_sp_footer_menu</sys_class_name>
+        <sys_created_by>Jithesh.Krishnan</sys_created_by>
+        <sys_created_on>2022-10-10 11:22:47</sys_created_on>
+        <sys_id>04903a041b62119044860d8cdc4bcbb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sn_ex_sp_footer_menu_04903a041b62119044860d8cdc4bcbb6</sys_update_name>
+        <sys_updated_by>Jithesh.Krishnan</sys_updated_by>
+        <sys_updated_on>2022-10-10 11:22:47</sys_updated_on>
+    </sn_ex_sp_footer_menu>
+</record_update>

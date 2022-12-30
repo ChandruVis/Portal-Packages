@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ex_sp_footer">
+    <sn_ex_sp_footer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copyright/>
+        <logo>b1d962e91bbe99106057777c0a4bcb3a</logo>
+        <name>Asianone EC Pro Footer</name>
+        <organization_content/>
+        <portal>2eea697d1bc25910d0c60fa9cc4bcb05</portal>
+        <sys_class_name>sn_ex_sp_footer</sys_class_name>
+        <sys_created_by>Jithesh.Krishnan</sys_created_by>
+        <sys_created_on>2022-10-10 11:21:57</sys_created_on>
+        <sys_id>1640f2041b62119044860d8cdc4bcb50</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Asianone EC Pro Footer</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sn_ex_sp_footer_1640f2041b62119044860d8cdc4bcb50</sys_update_name>
+        <sys_updated_by>Jithesh.Krishnan</sys_updated_by>
+        <sys_updated_on>2022-10-27 12:59:49</sys_updated_on>
+    </sn_ex_sp_footer>
+</record_update>

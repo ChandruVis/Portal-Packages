@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>/*main.body.padding-top {
+    padding-top: $size-0;
+}
+
+.cm-main-search {
+    padding: $percent10;
+}
+
+ul.list-unstyled {
+    display: $d-none;
+}
+.banner-container {
+    background-size: $cover !important;
+}
+main.body.padding-top {
+    padding-top: $size-0 !important;
+}
+.panel-body.transclude .list-group-item a {
+    color: $primary-color;
+  	font-family: $primary-font-regular;
+}
+.panel-body .list-group-item a {
+    color: $primary-color;
+  	font-family: $primary-font-regular;
+}
+.cm-welcome-msg h2 {
+    color: $primary-color;
+    font-family: $primary-font-regular;
+}
+span.catalog-title {
+    font-family:  $primary-font-regular !important;
+}
+h1.Portal-webpart-title {
+   font-family: $primary-font-semibold !important;
+   color: $primary-color;
+}
+li.faq-title {
+    font-family: $primary-font-regular !important;
+}
+.Portal-w-100 .Portal-chevronright a {
+    font-family: $primary-font-regular;
+}
+a.Portal-link.ng-scope {
+   font-family: $primary-font-regular;
+}
+a.viewall-link.pull-right {
+   font-family: $primary-font-regular;
+}
+h2.h4.panel-title {
+    font-family: $primary-font-regular;
+    font-size: $size-20;
+}
+.panel-heading {
+    background: $style-none !important;
+    border: $style-none;
+  	padding-top: $size-20;
+}
+.col-md-6 .panel.panel-default.b {
+   border:  $style-none;
+}
+span.views.pad-right {
+    font-family: $primary-font-regular;
+}
+.banner-search input.form-control:focus {
+    outline: $d-none !important;
+}
+//= Welcome Knowledge Base Style - Mobile
+@media  (max-width: 767px){
+.hidden-xs {
+    display: block !important;
+  font-family:primary-font-semibold !important;
+  font-size:14px !important;
+}
+ }
+
+//= Welcome Knowledge Base Style - Tablet
+
+@media (min-width: 768px) and (max-width: 991px){
+.cm-main-search .hidden-sm
+{
+display:$d-block !important;
+font-family:primary-font-semibold !important;
+  font-size:20px !important;}}
+*/
+main.body.padding-top {
+    padding-top: 0px;
+}
+
+.cm-main-search {
+    padding: 10%;
+}
+
+ul.list-unstyled {
+    display: none;
+}
+.banner-container {
+    background-size: cover !important;
+}
+main.body.padding-top {
+    padding-top: 0px !important;
+}
+
+
+.panel-body.transclude .list-group-item a {
+    color: $primary-color;
+}
+.panel-body .list-group-item a {
+    color: $primary-color;
+}
+
+//= Welcome Knowledge Base Style - Mobile
+@media  (max-width: 767px){
+.knowledgebase_container_born_ec_pro .hidden-xs {
+    display: block !important;
+  font-family:primary-font-semibold !important;
+  font-size:14px !important;
+}
+ }
+
+//= Welcome Knowledge Base Style - Tablet
+
+@media (min-width: 768px) and (max-width: 991px){
+.knowledgebase_container_born_ec_pro .cm-main-search .hidden-sm
+{
+display:$d-block !important;
+font-family:primary-font-semibold !important;
+  font-size:20px !important;}}
+
+.cm-main-search .cm-welcome-msg h2
+{
+  color:white;
+  font-family:'SF Pro Text Regular';
+}
+.banner-search input.form-control:focus {
+    outline: $d-none !important;
+}
+.knowledgebase_container_born_ec_pro{
+  background-color:$primary-color-100;
+}
+//.panel.panel-default.b{
+//  border:none !important;
+//}
+//.panel-default &gt; .panel-heading{
+  //background:$unset !important;
+  //border:none !important;
+//}
+.cm-main-search .cm-welcome-msg h2{
+  color:$text-heading;
+}
+.swipe-tab-content .row{
+  margin:$unset;
+}
+.panel-default .panel-heading .h4{
+  font-size:20px;
+}
+.col-md-12 .cm-search-box form .input-group .input-group-btn button.btn.btn-default:focus {
+    box-shadow: none !important;
+    outline: none !important;
+    border-color: $text-muted !important;
+    background-color: $white !important;
+}
+.col-md-12 .cm-search-box form .input-group .input-group-btn button.btn.btn-default:hover {
+    background-color: $white !important;
+}
+.col-md-12 .cm-search-box form .input-group .input-group-btn button.btn.btn-default {
+    border-left: 0.1rem solid $text-muted !important;
+}
+.col-md-12 .cm-search-box form .input-group .input-group-btn button.btn.btn-default .fa-search {
+    color: $black !important;
+}
+.col-md-12 .cm-search-box form .input-group .input-group-btn button.btn.btn-default:active {
+    box-shadow: none !important;
+    outline: none !important;
+    webkit-box-shadow: none !important;
+}
+.panel .panel-body .list-group .list-group-item div span:focus {
+    box-shadow: none !important;
+    outline: none !important;
+}
+.col-md-6 span div .panel.panel-default.b {
+    border: 0.1rem solid $grey-100 !important;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>asianone_ec_pro_knowledge_homepage</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>Sandeep.Vasudevan</sys_created_by>
+        <sys_created_on>2022-09-20 20:19:34</sys_created_on>
+        <sys_id>cf9ba1bd1bc25910d0c60fa9cc4bcbc1</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>asianone_ec_pro_knowledge_homepage</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sp_page_cf9ba1bd1bc25910d0c60fa9cc4bcbc1</sys_update_name>
+        <sys_updated_by>Sudarsan.Pavadairayan</sys_updated_by>
+        <sys_updated_on>2022-11-23 12:02:52</sys_updated_on>
+        <title>Asianone EC Pro Knowledge Homepage</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf9ba1bd1bc25910d0c60fa9cc4bcbc1"/>
+</record_update>

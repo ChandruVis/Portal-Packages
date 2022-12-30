@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">1afd25561bce9910d0c60fa9cc4bcb77</sp_column>
+        <sp_widget display_value="KB Tile">50d919b397b55110f769b4b3f153af8d</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>Chandru.Viswanathan</sys_created_by>
+        <sys_created_on>2022-09-22 09:46:45</sys_created_on>
+        <sys_id>200e65561bce9910d0c60fa9cc4bcb31</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>sp_instance_200e65561bce9910d0c60fa9cc4bcb31</sys_update_name>
+        <sys_updated_by>Chandru.Viswanathan</sys_updated_by>
+        <sys_updated_on>2022-09-22 09:57:13</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"category": {
+		"value": "1ef1ff8bff0221009b20ffffffffff1d,5681bf8bff0221009b20ffffffffff95,379b6552ff0131009b20ffffffffff1b,0a86f3cbff0221009b20ffffffffff81,9d4737cbff0221009b20ffffffffff33",
+		"displayValue": "Applications, Email, Devices, News, Operating Systems"
+	},
+	"count": {
+		"value": 4,
+		"displayValue": "4"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=200e65561bce9910d0c60fa9cc4bcb31"/>
+</record_update>

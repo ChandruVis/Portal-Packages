@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_knowledge_base">
+    <m2m_sp_portal_knowledge_base action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <kb_knowledge_base display_value="Knowledge">dfc19531bf2021003f07e2c1ac0739ab</kb_knowledge_base>
+        <order>100</order>
+        <sp_portal display_value="Asianone EC Pro Protal">2eea697d1bc25910d0c60fa9cc4bcb05</sp_portal>
+        <sys_class_name>m2m_sp_portal_knowledge_base</sys_class_name>
+        <sys_created_by>Chandru.Viswanathan</sys_created_by>
+        <sys_created_on>2022-09-21 16:52:09</sys_created_on>
+        <sys_id>9ac54ec61bc29910d0c60fa9cc4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Knowledge.Asianone EC Pro Protal</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>m2m_sp_portal_knowledge_base_9ac54ec61bc29910d0c60fa9cc4bcbfc</sys_update_name>
+        <sys_updated_by>Chandru.Viswanathan</sys_updated_by>
+        <sys_updated_on>2022-09-21 16:52:09</sys_updated_on>
+    </m2m_sp_portal_knowledge_base>
+</record_update>

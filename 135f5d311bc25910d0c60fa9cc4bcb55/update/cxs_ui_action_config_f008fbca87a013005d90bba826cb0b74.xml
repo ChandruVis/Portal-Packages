@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="cxs_ui_action_config">
+    <cxs_ui_action_config action="INSERT_OR_UPDATE">
+        <action_condition/>
+        <action_label>This helped</action_label>
+        <action_undo_label/>
+        <action_value>This helped</action_value>
+        <active>true</active>
+        <advanced_visibility>false</advanced_visibility>
+        <attach_note_field/>
+        <attachment_type/>
+        <badge_label>Helpful</badge_label>
+        <current_action_condition/>
+        <current_table/>
+        <order>200</order>
+        <rest_api/>
+        <search_res_config/>
+        <search_resource display_value="">com.snc.contextual_search.search_resource.KnowledgeSearchResource</search_resource>
+        <search_ui_action display_value="This helped">31173286872a0300692cbba826cb0be1</search_ui_action>
+        <search_ui_config display_value="HR Payroll Case [sn_hr_core_case_payroll]">329232209f22120047a2d126c42e70fa</search_ui_config>
+        <show_on_new>true</show_on_new>
+        <sys_class_name>cxs_ui_action_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-03-01 18:07:49</sys_created_on>
+        <sys_id>f008fbca87a013005d90bba826cb0b74</sys_id>
+        <sys_name>This helped</sys_name>
+        <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
+        <sys_update_name>cxs_ui_action_config_f008fbca87a013005d90bba826cb0b74</sys_update_name>
+        <table/>
+        <trend_recommendation/>
+        <ui_action_visibility_script/>
+        <use_custom_field_for_attach>false</use_custom_field_for_attach>
+    </cxs_ui_action_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=f008fbca87a013005d90bba826cb0b74"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>cs</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>3d3e37f09770295047acfca6f053afa5</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Toto bylo užitečné</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>de</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>cccc5f7497b4a55047acfca6f053afd5</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Dies war hilfreich.</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>es</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>762c4401973c295047acfca6f053afff</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Ha sido de ayuda</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>fi</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>ad3017f897f8655047acfca6f053af93</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Tästä oli apua</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>fq</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>d49bd67c97f8a15047acfca6f053af88</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Cela a été utile</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>fr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>669626f497b4e15047acfca6f053af0d</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Aide utile</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>he</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>ec232ff897f8a55047acfca6f053afb4</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>זה עזר</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>hu</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>007697309770a55047acfca6f053affd</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Ez hasznos volt</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>it</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>4b04cffc9730655047acfca6f053af3c</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Questo è stato utile</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>5bf0ae709770e15047acfca6f053af96</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>役に立ちました</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>ko</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>e3573b7c97f8e55047acfca6f053afd6</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>이것은 유용함</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>nb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>bb52b6709770255047acfca6f053afbf</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Dette var til hjelp</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>nl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>5a25cc4997b4295047acfca6f053af3e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Dit was nuttig</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>pb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>f45836b497b4255047acfca6f053af10</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Isso ajudou</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>pl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>740a0b7497b4655047acfca6f053afe3</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>To było pomocne</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>pt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>c7d963b09770e55047acfca6f053af42</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Foi útil</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>ru</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>405358859770695047acfca6f053af22</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Это помогло</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>sv</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>9646d6f497b4a15047acfca6f053af6c</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Det här hjälpte</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>th</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>5780bbf497b4e55047acfca6f053aff8</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>เนื้อหานี้ช่วยได้</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>tr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>612e32f897f8255047acfca6f053af74</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Bu yardımcı oldu</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>zh</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>d26a580d97b4695047acfca6f053af23</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>非常有帮助</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>action_label</fieldname>
+        <language>zt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>455c263c97f8e15047acfca6f053afb2</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>這有幫助</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>cs</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>6fed777c9730295047acfca6f053afc6</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Užitečné</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>de</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>977cdffc9774a55047acfca6f053af78</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Hilfreich</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>es</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>10eb848997f8295047acfca6f053afb3</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Útil</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>fi</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>6dff877497f8655047acfca6f053af7b</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Hyödyllinen</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>fq</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>395b16f497f8a15047acfca6f053af01</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Utile</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>fr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>f756667097b4e15047acfca6f053afe9</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Utile</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>he</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>d7d26f7497f8a55047acfca6f053afd3</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>שימושי</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>hu</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>a7261bb89730a55047acfca6f053afae</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Hasznos</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>it</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>77c343b89730655047acfca6f053af2b</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Utile</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>ja</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>10c0223c9730e15047acfca6f053afcf</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>役に立つ</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>ko</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>b917bbf497f8e55047acfca6f053af2e</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>유용함</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>nb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>a8223af89730255047acfca6f053afa9</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Nyttig</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>nl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>68e4000597b4295047acfca6f053afa5</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Nuttig</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>pb</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>9d18763097b4255047acfca6f053afff</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Útil</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>pl</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>74c98bfc9774655047acfca6f053af5f</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Pomocne</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>pt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>b999a33c9730e55047acfca6f053afcd</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Útil</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>ru</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>e10398019770695047acfca6f053af3b</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Полезно</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>sv</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>fb06967097b4a15047acfca6f053afda</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Användbart</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>th</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>c5403f7097b4e55047acfca6f053af42</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>มีประโยชน์</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>tr</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>7aedb27497f8255047acfca6f053af68</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>Yararlı</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>zh</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>0c2a988597b4695047acfca6f053afa0</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>有帮助</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>f008fbca87a013005d90bba826cb0b74</documentkey>
+        <fieldname>badge_label</fieldname>
+        <language>zt</language>
+        <sys_created_by/>
+        <sys_created_on/>
+        <sys_id>fd1ca6b497f8e15047acfca6f053afbc</sys_id>
+        <sys_mod_count/>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <tablename>cxs_ui_action_config</tablename>
+        <value>有幫助</value>
+    </sys_translated_text>
+</record_update>

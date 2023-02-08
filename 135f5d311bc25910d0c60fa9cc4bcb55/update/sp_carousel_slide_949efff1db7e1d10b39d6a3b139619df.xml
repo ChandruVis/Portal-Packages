@@ -8,14 +8,11 @@
         <sys_created_by>Snekha.Mohan Kumar</sys_created_by>
         <sys_created_on>2022-10-28 13:49:16</sys_created_on>
         <sys_id>949efff1db7e1d10b39d6a3b139619df</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>Blaster</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>sp_carousel_slide_949efff1db7e1d10b39d6a3b139619df</sys_update_name>
-        <sys_updated_by>Snekha.Mohan Kumar</sys_updated_by>
-        <sys_updated_on>2022-10-28 13:50:12</sys_updated_on>
         <url>https://beckstrategiesincdemo7.service-now.com/flex_ec?id=flex_homepage</url>
     </sp_carousel_slide>
     <sys_translated_text action="delete_multiple" query="documentkey=949efff1db7e1d10b39d6a3b139619df"/>

@@ -14,14 +14,11 @@
         <sys_created_by>Chandru.Viswanathan</sys_created_by>
         <sys_created_on>2022-09-22 09:45:29</sys_created_on>
         <sys_id>79bded161bce9910d0c60fa9cc4bcb19</sys_id>
-        <sys_mod_count>2</sys_mod_count>
         <sys_name>Asianone EC Pro Knowledge Homepage - Container 1</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>sp_container_79bded161bce9910d0c60fa9cc4bcb19</sys_update_name>
-        <sys_updated_by>Chandru.Viswanathan</sys_updated_by>
-        <sys_updated_on>2022-09-28 14:19:33</sys_updated_on>
         <title/>
         <width>container</width>
     </sp_container>

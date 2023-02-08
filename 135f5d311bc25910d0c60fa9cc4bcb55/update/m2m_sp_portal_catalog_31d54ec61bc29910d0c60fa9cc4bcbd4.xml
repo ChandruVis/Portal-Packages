@@ -8,13 +8,10 @@
         <sys_created_by>Chandru.Viswanathan</sys_created_by>
         <sys_created_on>2022-09-21 16:52:24</sys_created_on>
         <sys_id>31d54ec61bc29910d0c60fa9cc4bcbd4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>Service Catalog.Asianone EC Pro Protal</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>m2m_sp_portal_catalog_31d54ec61bc29910d0c60fa9cc4bcbd4</sys_update_name>
-        <sys_updated_by>Chandru.Viswanathan</sys_updated_by>
-        <sys_updated_on>2022-09-21 16:52:24</sys_updated_on>
     </m2m_sp_portal_catalog>
 </record_update>

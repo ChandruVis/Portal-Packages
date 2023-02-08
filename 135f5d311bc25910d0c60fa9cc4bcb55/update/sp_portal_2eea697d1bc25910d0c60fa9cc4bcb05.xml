@@ -45,14 +45,11 @@ $text-muted:#979797;
         <sys_created_by>Sandeep.Vasudevan</sys_created_by>
         <sys_created_on>2022-09-20 20:16:33</sys_created_on>
         <sys_id>2eea697d1bc25910d0c60fa9cc4bcb05</sys_id>
-        <sys_mod_count>12</sys_mod_count>
         <sys_name>Asianone EC Pro Protal</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>sp_portal_2eea697d1bc25910d0c60fa9cc4bcb05</sys_update_name>
-        <sys_updated_by>Vignesh.Dhatshnamurthy</sys_updated_by>
-        <sys_updated_on>2022-11-15 12:12:40</sys_updated_on>
         <theme display_value="Asian One EC Pro Theme">ed89010e1bce5910d0c60fa9cc4bcbb3</theme>
         <title>Asianone EC Pro Protal</title>
         <ts_index_group/>

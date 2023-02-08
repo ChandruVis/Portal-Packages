@@ -11,13 +11,10 @@
         <sys_created_by>Sandeep.Vasudevan</sys_created_by>
         <sys_created_on>2022-09-29 18:42:19</sys_created_on>
         <sys_id>8ebb27601b5a9150d0c60fa9cc4bcbbf</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>1</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>sp_column_8ebb27601b5a9150d0c60fa9cc4bcbbf</sys_update_name>
-        <sys_updated_by>Jithesh.Krishnan</sys_updated_by>
-        <sys_updated_on>2022-09-30 14:00:34</sys_updated_on>
     </sp_column>
 </record_update>

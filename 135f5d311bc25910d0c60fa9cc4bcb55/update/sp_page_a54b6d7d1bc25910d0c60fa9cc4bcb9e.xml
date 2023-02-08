@@ -196,14 +196,11 @@ order:2 !important;
         <sys_created_by>Sandeep.Vasudevan</sys_created_by>
         <sys_created_on>2022-09-20 20:18:28</sys_created_on>
         <sys_id>a54b6d7d1bc25910d0c60fa9cc4bcb9e</sys_id>
-        <sys_mod_count>73</sys_mod_count>
         <sys_name>asianone_ec_pro_homepage</sys_name>
         <sys_package display_value="Asian One EC Pro" source="x_insts_asian_pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_package>
         <sys_policy/>
         <sys_scope display_value="Asian One EC Pro">135f5d311bc25910d0c60fa9cc4bcb55</sys_scope>
         <sys_update_name>sp_page_a54b6d7d1bc25910d0c60fa9cc4bcb9e</sys_update_name>
-        <sys_updated_by>Vignesh.Dhatshnamurthy</sys_updated_by>
-        <sys_updated_on>2022-10-31 10:18:31</sys_updated_on>
         <title>Asianone EC Pro Homepage</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>
